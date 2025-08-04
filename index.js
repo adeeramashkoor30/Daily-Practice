@@ -10,9 +10,16 @@ var user123 = "sara"
 alert("user123");
 var _underscore = "hyphrn allowed in the first"
 alert("_underscore");
-var 123user;      // starts with number
-var alert;        // reserved word
-var my name;      // space not allowed
-
+// var 123user;      // starts with number
+// var alert;        // reserved word
+// var my name;      // space not allowed
+var num = 3 + 4
+console.log (num)
+var sub = 6 - 2
+console.log(sub)
+var multiply = 4 * 2
+console.log(multiply)
+var divide = 2 % 3
+console.log(divide)
 
 
